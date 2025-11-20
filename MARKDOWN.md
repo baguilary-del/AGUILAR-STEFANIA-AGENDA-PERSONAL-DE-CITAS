@@ -70,7 +70,9 @@ Tablas:
 | Dato1    | Dato2    |
 
 
-Enlaces e imágenes: [texto](url), ![alt](url)
+Enlaces e imágenes: [texto]()
+Imagenes:
+![Imagen] (https://static.vecteezy.com/system/resources/previews/021/499/173/original/black-gpt-chat-logo-on-white-background-logo-illustration-free-vector.jpg)
 
 Citas: > cita
 
@@ -87,5 +89,6 @@ Dependencia de renderizado: Para obtener formato visual, necesita un visor o pla
 7. Conclusión
 
 Markdown se ha convertido en un estándar en la documentación y creación de contenido digital debido a su simplicidad, portabilidad y compatibilidad con herramientas modernas. Aunque no reemplaza lenguajes de marcado complejos como HTML o LaTeX, es ideal para documentos técnicos, notas, blogs y gestión de proyectos en Git.
+
 
 Su crecimiento y adopción en plataformas como GitHub, Notion y Obsidian demuestra que Markdown sigue siendo relevante en la era digital, especialmente para profesionales de la programación, escritores técnicos y estudiantes.
