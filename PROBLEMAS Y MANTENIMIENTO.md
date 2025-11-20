@@ -1,24 +1,4 @@
 ## Propuestas de mantenimiento 
-## Propósito del sistema
-El sistema permite al usuario organizar y administrar sus citas personales, registrando:
-Fecha
-Hora
-Descripción del evento
-Estado (pendiente, completada, cancelada)
-El objetivo es ofrecer orden, recordatorio y control sobre actividades personales o laborales.
-
-## Actores del sistema
-Usuario principal: Persona que registra y administra sus citas.
-Sistema: Guarda, ordena y muestra la información.
-(Opcional) Servicio de notificaciones: Sistema externo que envía recordatorios.
-
-## Entradas del sistema
-El usuario proporcionará:
-Fecha de la cita (formato YYYY-MM-DD)
-Hora de la cita (24h)
-Descripción de la cita
-Acciones: crear, modificar, eliminar o consultar citas
-
 ## Procesos del sistema
 El sistema debe realizar los siguientes procesos:
 
@@ -144,5 +124,6 @@ Validación estricta de fechas y horas
 Manejo adecuado de conflictos
 
 Una estructura flexible para ampliar funciones
+
 
 Con una base sólida, puede evolucionar en una aplicación completa de agenda digital.
